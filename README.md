@@ -8,4 +8,4 @@ Purpose:  This program is originally meant to keep cats out of your garden by se
 Steps:  1.  ssh into your nano;
         2.  Upload the script;
         3.  Set up your camera wherever you want to know when a cat's there;
-        4.  Run the script;
+        4.  Run the script
