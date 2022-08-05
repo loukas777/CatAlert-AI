@@ -2,12 +2,12 @@
 
 The CatAlert-AI is a program that detects the presence of cats in a live video through the Jetson detectNet network.
 
-##Purpose
+**Purpose
 
 This program is originally meant to keep cats out of your garden by sending the resident/user a notification saying a cat is in their garden. But
 it can also be used for other intentions.
 
-##The Algorithm
+**The Algorithm
 
 First it imports all the necessary tools:
 
@@ -28,7 +28,7 @@ Still in the for loop (going through the detected objects), it asks if an object
 ![image](https://user-images.githubusercontent.com/110618644/183102901-f43064e0-0e27-400f-9f8b-6cd16e800b32.png)
 
           
-##Running this project:
+**Running this project:
 
 1.  ssh into your nano
 2.  Make sure you have all necessary libraries installed: jetson.inference, jetson.utils, playsound
