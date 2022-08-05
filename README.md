@@ -38,4 +38,4 @@ Still in the for loop (going through the detected objects), it asks if an object
 6.        cd into the "CatAlert-AI" directory ("cd CatAlert-AI")
 7.        Run the python file ("python3 detector.py")
 8.        To end the live video feed press ctrl+c (counts for both Windows and Mac)
-9.        To view the saved video open a new Terminal(Mac)/Powershell(Windows) window and scp the video from your nano to your device in that new window, then view it on your device ("scp [username]@[IP]:/[where/your/video/is/saved] [where/you/want/to/save/it]")
+9.        To view the saved video open a new Terminal(Mac)/Powershell(Windows) window and scp the video from your nano to your device in that new window, then view it on your device ("scp [username]@[IP]:/[WhereYourVideoIsSaved]/cat_video.mp4 [WhereYouWantToSaveIt]")
