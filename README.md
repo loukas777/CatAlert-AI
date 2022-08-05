@@ -33,7 +33,7 @@ Still in the for loop (going through the detected objects), it asks if an object
 1.        Put your camera setup wherever you want to know when a cat's there
 2.        Open a Terminal(Mac)/Powershell(Windows) window
 3.        ssh into your nano ("ssh [username]@[IP]" + password)
-4.        Make sure you have all necessary libraries installed: jetson.inference, jetson.utils, playsound
+4.        Make sure you have all necessary libraries installed: jetson.inference, jetson.utils, playsound; Make sure you have a device to output the sound hooked up with your nano
 5.        Clone this github repository onto your nano ("git clone https://github.com/loukas777/CatAlert-AI.git")
 6.        cd into the "CatAlert-AI" directory ("cd CatAlert-AI")
 7.        Run the python file ("python3 detector.py")
